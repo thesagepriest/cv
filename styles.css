@@ -1,0 +1,22 @@
+ body {
+            background-color: azure;
+        }
+        
+        hr {
+            border-style: none;
+            border-top-style: dotted;
+            border-color: grey;
+            border-width: 5px;
+            width: 5%;
+        }
+        
+        h1 {
+            color: darkslategray;
+        }
+        h3 {
+            color: darkslategray;
+        }
+
+        img:hover {
+            background-color: darkolivegreen;
+        }
